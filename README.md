@@ -1,1 +1,2 @@
 # CashNCarry
+Super store in a retail environment, a super store is a large retailer who stocks and sells a wide variety of merchandise including utilities, food items, appliances and cosmetics and general supplies. A number of employees manages the store. This project focuses on the purchase and sales of  super store’s products that how we manage to control and hold all the tasks and manage our progress and performance. We also retrieve data against profit and loss
